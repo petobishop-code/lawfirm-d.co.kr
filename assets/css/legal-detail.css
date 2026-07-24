@@ -19,3 +19,29 @@
 @media(max-width:900px){
   .hero-visual{display:none}
 }
+
+/* v5 상담 전환 강화 */
+.header-cta{
+  padding:14px 23px!important;
+  font-size:15px!important;
+  border-radius:999px!important;
+  background:linear-gradient(135deg,#c8a252,#e0bc6a)!important;
+  color:#07172b!important;
+  box-shadow:0 10px 28px rgba(198,161,91,.34)!important;
+  transition:transform .2s ease,box-shadow .2s ease!important
+}
+.header-cta:hover{transform:translateY(-2px);box-shadow:0 14px 34px rgba(198,161,91,.45)!important}
+.conversion-cta{padding:38px 40px!important;border:1px solid rgba(202,167,95,.42);box-shadow:0 20px 55px rgba(7,23,43,.18)}
+.conversion-cta .cta-badge{font-size:11px;font-weight:900;letter-spacing:.14em;color:#e7c77f;margin-bottom:8px}
+.conversion-cta h2{font-size:30px!important}
+.conversion-cta p{font-size:16px;max-width:680px}
+.conversion-cta .cta-button{font-size:17px;padding:17px 27px;border-radius:12px;box-shadow:0 12px 28px rgba(0,0,0,.2)}
+.conversion-cta .cta-button span{margin-left:10px;font-size:20px}
+.conversion-cta small{display:block;margin-top:13px;color:#aebdd0;font-size:12px}
+.faq-consult-link{display:inline-block;margin-top:10px;color:#9a7538;font-size:13px;font-weight:900}
+@media(max-width:620px){
+ .header-cta{padding:11px 14px!important;font-size:12px!important}
+ .conversion-cta{padding:27px 24px!important}
+ .conversion-cta h2{font-size:25px!important}
+ .conversion-cta .cta-button{display:block;text-align:center;width:100%;font-size:16px}
+}
