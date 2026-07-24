@@ -4,3 +4,18 @@
 .hero-visual img{width:100%;height:390px;object-fit:cover;object-position:center}
 .content-image img[src$=".jpg"]{width:100%;height:330px;object-fit:cover}
 @media(max-width:620px){.hero-visual img{height:260px}.content-image img[src$=".jpg"]{height:230px}}
+
+/* v4.1 내부페이지 히어로 사진 보정 */
+.hero-visual{
+  aspect-ratio: 4 / 3;
+  min-height: 0;
+}
+.hero-visual img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center;
+}
+@media(max-width:900px){
+  .hero-visual{display:none}
+}
