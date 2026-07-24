@@ -1,0 +1,1 @@
+document.querySelectorAll('.faq details').forEach(d=>d.addEventListener('toggle',()=>{if(d.open){document.querySelectorAll('.faq details[open]').forEach(x=>{if(x!==d)x.removeAttribute('open')})}}));
