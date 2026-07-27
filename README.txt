@@ -1,14 +1,14 @@
-LAW FIRM D — Sprint 1
+업로드 안내
 
-포함 내용
-- 프리미엄 다크 로펌 스타일 메인
-- 공통 헤더/푸터/PC 퀵메뉴/모바일 하단 메뉴
-- 기본 내부 페이지 6개
-- 키워드 35개 URL 및 초안 페이지
-- robots.txt / sitemap.xml / canonical / 기본 Schema
-- 반응형 CSS
+이번 ZIP은 기존 15개를 교체하는 파일이 아니라, 새 업무분야 5개를 추가하는 파일입니다.
 
-중요
-- 키워드 본문은 구조 확인용 초안이며 게시 전 법률 검수가 필요합니다.
-- 상담 URL, 전화번호, 운영 주체, 개인정보 처리방침은 아직 입력되지 않았습니다.
-- 전문가 사진·경력 및 실제 업무사례는 공식 자료 제공 후 교체해야 합니다.
+포함 파일
+- sexual-assault-lawyer.html (성폭행전문변호사)
+- statutory-rape-lawyer.html (미성년자의제강간변호사)
+- subway-molestation-lawyer.html (지하철성추행변호사)
+- illegal-filming-distribution-lawyer.html (불법촬영유포변호사)
+- grooming-sex-crime-lawyer.html (그루밍성범죄변호사)
+- practice.html (업무분야 15개 → 20개)
+- sitemap.xml (신규 5개 URL 추가)
+
+GitHub 저장소 최상위에 7개 파일을 모두 덮어쓰기/추가하세요.
