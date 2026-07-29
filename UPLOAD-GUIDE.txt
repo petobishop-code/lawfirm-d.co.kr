@@ -1,19 +1,7 @@
-LAW FIRM D - 강제추행변호사 20페이지 클러스터
+강제추행변호사 20페이지 수정본 업로드 안내
 
-포함 파일
-- 신규 HTML 20개
-- practice-sex-crime.html 업데이트
-- practice.html 업데이트
-- sitemap.xml 업데이트
-
-업로드 방법
-1. ZIP 압축을 풉니다.
-2. 모든 파일을 GitHub 저장소 최상위 폴더에 업로드합니다.
-3. 동일 이름 파일 3개는 교체합니다.
-4. Vercel 배포 완료 후 신규 URL 2~3개와 sitemap.xml 접속을 확인합니다.
-5. 100페이지 전체 완료 후 네이버 서치어드바이저에서 사이트맵을 다시 제출하고 주요 허브/대표 페이지만 수집 요청합니다.
-
-주의
-- assets 폴더는 기존 저장소의 파일을 그대로 사용합니다.
-- 버튼 문구와 기존 외부 상담 링크 구조를 유지했습니다.
-- 개별 사건 결과를 보장하는 표현은 포함하지 않았습니다.
+1. 압축을 푼 뒤 안의 파일을 저장소 최상위 폴더에 모두 업로드하세요.
+2. indecent-assault-lawyer.html, practice-sex-crime.html, practice.html, sitemap.xml은 반드시 기존 파일을 교체하세요.
+3. indecent-assault-lawyer.html에 강제추행 세부 법률정보 20개 카드가 추가되었습니다.
+4. practice-sex-crime.html과 indecent-assault-lawyer.html의 소제목 번호를 순서대로 바로잡았습니다.
+5. Vercel 배포 완료 후 강력 새로고침(Ctrl+F5)으로 확인하세요.
