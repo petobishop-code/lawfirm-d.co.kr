@@ -1,3 +1,2 @@
-practice-sex-crime.html: cards=20, initial_visible=4, hidden=16, toggle=False
-practice-sex-crime.html: unrelated_forced_section_present=False
-indecent-assault-lawyer.html: cards=20, initial_visible=4, hidden=16, toggle=False
+검사 완료
+문제 없음
