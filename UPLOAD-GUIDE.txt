@@ -1,0 +1,29 @@
+LawFirm D 성범죄전문변호사 클러스터 20페이지
+
+업로드 파일: HTML 20개 + practice-sex-crime.html + practice.html + sitemap.xml
+
+일반 파생 10개:
+- 성범죄전문변호사 상담 | sex-crime-lawyer-consultation.html
+- 성범죄전문변호사 선임 | sex-crime-lawyer-retainer.html
+- 성범죄전문변호사 비용 | sex-crime-lawyer-cost.html
+- 성범죄전문변호사 경찰조사 | sex-crime-lawyer-police-investigation.html
+- 성범죄전문변호사 초범 | sex-crime-lawyer-first-offense.html
+- 성범죄전문변호사 합의 | sex-crime-lawyer-settlement.html
+- 성범죄전문변호사 기소유예 | sex-crime-lawyer-non-prosecution.html
+- 성범죄전문변호사 무혐의 | sex-crime-lawyer-no-charge.html
+- 성범죄전문변호사 증거 | sex-crime-lawyer-evidence.html
+- 성범죄전문변호사 대응방법 | sex-crime-lawyer-response.html
+
+검색 의도형 10개:
+- 성범죄 경찰조사 연락을 받았다면 어떻게 해야 하나 | sex-crime-police-call-what-to-do.html
+- 성범죄 혐의를 받으면 가장 먼저 해야 할 일 | sex-crime-accusation-first-steps.html
+- 성범죄 초범도 실형이 선고될 수 있을까 | sex-crime-first-offense-imprisonment.html
+- 성범죄 사건에서 휴대폰 포렌식은 어떻게 진행될까 | sex-crime-phone-forensics-process.html
+- 성범죄 사건 합의는 언제 진행하는 것이 좋을까 | sex-crime-settlement-timing.html
+- 성범죄 사건에서 CCTV가 없는 경우 대응 방법 | sex-crime-no-cctv-response.html
+- 성범죄 사건 피해자 진술만으로 처벌될 수 있을까 | sex-crime-victim-statement-evidence.html
+- 성범죄 무혐의를 위해 준비해야 하는 자료 | sex-crime-no-charge-documents.html
+- 성범죄 변호사는 언제 선임하는 것이 좋을까 | when-to-hire-sex-crime-lawyer.html
+- 성범죄 사건 초기 대응이 결과에 미치는 영향 | sex-crime-early-response-impact.html
+
+모든 신규 페이지에 대륜 외부 상담 링크, 메인 성범죄전문변호사 내부링크, FAQ/Article/Breadcrumb 구조화 데이터가 포함되어 있습니다.
