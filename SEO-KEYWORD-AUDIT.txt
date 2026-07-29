@@ -1,0 +1,35 @@
+practice-sex-crime.html	성범죄전문변호사	본문 13회	TITLE: 성범죄전문변호사 | 초기 대응과 조사 전 확인사항	H1: 성범죄전문변호사 초기 대응 전 확인사항
+indecent-assault-lawyer.html	강제추행변호사	본문 13회	TITLE: 강제추행변호사 | 혐의 판단과 경찰 조사 준비	H1: 강제추행변호사 조사 전 확인해야 할 쟁점
+quasi-rape-lawyer.html	준강간변호사	본문 13회	TITLE: 준강간변호사 | 당시 상태와 조사 전 준비	H1: 준강간변호사 당시 상태와 정황 확인
+camera-crime-lawyer.html	카메라등이용촬영변호사	본문 13회	TITLE: 카메라등이용촬영변호사 | 불법촬영과 디지털 증거	H1: 카메라등이용촬영변호사 디지털 증거 대응 가이드
+obscene-communication-lawyer.html	통신매체이용음란변호사	본문 13회	TITLE: 통신매체이용음란변호사 | 게임채팅·SNS 사건 대응 가이드	H1: 통신매체이용음란변호사 게임채팅·SNS 사건 대응 가이드
+public-place-molestation-lawyer.html	공중밀집장소추행변호사	본문 13회	TITLE: 공중밀집장소추행변호사 | 지하철·공연장 사건 대응	H1: 공중밀집장소추행변호사 혼잡한 장소 사건 대응
+child-youth-sex-crime-lawyer.html	아동청소년성범죄변호사	본문 13회	TITLE: 아동청소년성범죄변호사 | 연령 확인과 초기 대응	H1: 아동청소년성범죄변호사 연령과 대화 기록 확인
+digital-sex-crime-lawyer.html	디지털성범죄변호사	본문 13회	TITLE: 디지털성범죄변호사 | 촬영·유포·저장 사건 대응	H1: 디지털성범죄변호사 기기와 계정 자료 대응
+deepfake-sex-crime-lawyer.html	딥페이크성범죄변호사	본문 13회	TITLE: 딥페이크성범죄변호사 | 합성물 제작·유포 대응	H1: 딥페이크성범죄변호사 합성물 제작·유포 대응
+sexual-message-lawyer.html	성적메시지변호사	본문 13회	TITLE: 성적메시지변호사 | 문자·SNS 신고 대응	H1: 성적메시지변호사 문자·SNS 신고 대응
+sexual-harassment-workplace-lawyer.html	직장내성추행변호사	본문 12회	TITLE: 직장내성추행변호사 | 회식·업무관계 사건 대응	H1: 직장내성추행변호사 회식·업무관계 사건 대응
+dating-sex-crime-lawyer.html	데이트성범죄변호사	본문 12회	TITLE: 데이트성범죄변호사 | 연인 관계 사건 초기 대응	H1: 데이트성범죄변호사 연인 관계 사건 대응
+sexual-assault-police-investigation.html	성범죄경찰조사	본문 12회	TITLE: 성범죄경찰조사 | 출석 전 진술과 자료 준비	H1: 성범죄경찰조사 출석 전 준비사항
+sexual-assault-settlement-lawyer.html	성범죄합의변호사	본문 12회	TITLE: 성범죄합의변호사 | 합의 연락과 절차 주의사항	H1: 성범죄합의변호사 합의 절차와 연락 주의
+sexual-assault-false-accusation-lawyer.html	성범죄무고변호사	본문 12회	TITLE: 성범죄무고변호사 | 허위신고 주장 전 확인사항	H1: 성범죄무고변호사 허위신고 주장 전 확인
+sexual-assault-lawyer.html	성폭행전문변호사	본문 12회	TITLE: 성폭행전문변호사 | 강간 혐의 초기 대응과 조사 준비	H1: 성폭행전문변호사 강간 혐의 초기 대응과 조사 준비
+statutory-rape-lawyer.html	미성년자의제강간변호사	본문 12회	TITLE: 미성년자의제강간변호사 | 연령 확인과 대화 자료 대응	H1: 미성년자의제강간변호사 연령 확인과 디지털 자료 대응
+subway-molestation-lawyer.html	지하철성추행변호사	본문 12회	TITLE: 지하철성추행변호사 | 혼잡한 장소 사건과 CCTV 대응	H1: 지하철성추행변호사 혼잡한 장소 사건과 CCTV 대응
+illegal-filming-distribution-lawyer.html	불법촬영유포변호사	본문 12회	TITLE: 불법촬영유포변호사 | 전송·게시 경로와 디지털 증거 대응	H1: 불법촬영유포변호사 전송·게시 경로와 디지털 증거 대응
+grooming-sex-crime-lawyer.html	그루밍성범죄변호사	본문 12회	TITLE: 그루밍성범죄변호사 | 온라인 대화와 관계 형성 과정 대응	H1: 그루밍성범죄변호사 온라인 대화와 관계 형성 과정 대응
+rape-lawyer.html	강간죄변호사	본문 13회	TITLE: 강간죄변호사 | 동의 여부와 조사 대응 확인	H1: 강간죄변호사 동의 여부와 객관적 자료 확인
+similar-rape-lawyer.html	유사강간변호사	본문 12회	TITLE: 유사강간변호사 | 행위 내용과 증거 확인	H1: 유사강간변호사 행위 내용과 동의 여부 검토
+abuse-of-authority-molestation-lawyer.html	업무상위력추행변호사	본문 12회	TITLE: 업무상위력추행변호사 | 지위 관계와 진술 확인	H1: 업무상위력추행변호사 지위 관계와 업무 환경 확인
+sexual-violence-act-lawyer.html	성폭력처벌법변호사	본문 12회	TITLE: 성폭력처벌법변호사 | 적용 조항과 절차 확인	H1: 성폭력처벌법변호사 적용 조항과 증거 구조 확인
+prostitution-lawyer.html	성매매변호사	본문 12회	TITLE: 성매매변호사 | 단속 경위와 대화 확인	H1: 성매매변호사 만남 경위와 금전 흐름 확인
+conditional-meeting-lawyer.html	조건만남변호사	본문 12회	TITLE: 조건만남변호사 | 연령과 대화 내용 확인	H1: 조건만남변호사 연령 인식과 금전 약속 검토
+sex-crime-non-prosecution-lawyer.html	성범죄기소유예변호사	본문 12회	TITLE: 성범죄기소유예변호사 | 처분 요소와 자료 준비	H1: 성범죄기소유예변호사 처분 요소와 제출자료 확인
+sex-crime-arrest-warrant-lawyer.html	성범죄구속영장변호사	본문 12회	TITLE: 성범죄구속영장변호사 | 영장심사 전 준비사항	H1: 성범죄구속영장변호사 영장심사 전 준비자료 확인
+sex-crime-appeal-lawyer.html	성범죄항소변호사	본문 12회	TITLE: 성범죄항소변호사 | 1심 판결과 항소이유 검토	H1: 성범죄항소변호사 1심 판단과 항소이유 검토
+sex-crime-trial-lawyer.html	성범죄재판변호사	본문 13회	TITLE: 성범죄재판변호사 | 공판 준비와 증거 확인	H1: 성범죄재판변호사 공판 절차와 증거 구조 확인
+sex-crime-search-seizure-lawyer.html	성범죄압수수색변호사	본문 12회	TITLE: 성범죄압수수색변호사 | 영장 범위와 기기 대응	H1: 성범죄압수수색변호사 영장 범위와 디지털 기기 확인
+sex-crime-digital-forensics-lawyer.html	성범죄포렌식변호사	본문 12회	TITLE: 성범죄포렌식변호사 | 복구 자료와 분석 범위 확인	H1: 성범죄포렌식변호사 복구 자료와 분석 범위 검토
+sex-offender-registration-lawyer.html	성범죄신상정보등록변호사	본문 12회	TITLE: 성범죄신상정보등록변호사 | 등록 의무와 절차 확인	H1: 성범죄신상정보등록변호사 등록 대상과 변경 신고 확인
+sex-crime-employment-restriction-lawyer.html	성범죄취업제한변호사	본문 12회	TITLE: 성범죄취업제한변호사 | 대상기관과 기간 확인	H1: 성범죄취업제한변호사 대상기관과 제한 기간 확인
+sex-crime-not-guilty-lawyer.html	성범죄무죄변호사	본문 12회	TITLE: 성범죄무죄변호사 | 증거 판단과 방어 준비	H1: 성범죄무죄변호사 증거 판단과 방어 논리 검토
